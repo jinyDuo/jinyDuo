@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align-"center"> 안녕하세요. 주니어 개발자 jiny </h1>
+
+- 🔭 hompage - 22.12.. , erp 프로젝트 진행중...
+- 🌱 react, Laravel, php, mysql, jquery
+
+<p align="center">
+<a href="#" target="_blank">image</a>
+</p>
