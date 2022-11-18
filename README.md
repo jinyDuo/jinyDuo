@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align-"center"> 안녕하세요. 주니어 개발자 jiny </h1>
+<h3 align-"center"> 안녕하세요. 주니어 개발자 jiny </h3>
 
 - 🔭 hompage - 22.12.. , erp 프로젝트 진행중...
 - 🌱 react, Laravel, php, mysql, jquery
