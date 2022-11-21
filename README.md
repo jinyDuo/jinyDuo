@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <h3 align-"center"> 안녕하세요. 주니어 개발자 jiny </h3>
-- 💬 induk UNIV 2012 .. 
-- 🔭 hompage - 22.12.. , 23.01.. erp 프로젝트 진행중...
-- 🌱 language Back : Laravel, php
-- 🌱 laguage Front : React, Javascript, Jquery
+- 💬 induk UNIV 2012 .. </br>
+- 🔭 hompage - 22.12.. , 23.01.. erp 프로젝트 진행중... </br>
+- 🌱 language Back : Laravel, php </br>
+- 🌱 laguage Front : React, Javascript, Jquery </br>
 
 <p align="center">
 <a href="#" target="_blank">image</a>
