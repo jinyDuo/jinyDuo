@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <h3 align-"center"> 안녕하세요. Junior 개발자 jiny </h3>
 - 💬 induk UNIV 2012 .. </br>
 - 🔭 hompage - 22.12.. , 23.01.. erp 프로젝트 진행중... </br>
-- 🌱 language Back : Laravel, php </br>
-- 🌱 Language Front : React, Javascript, Jquery </br>
+- 🌱 Back Language : Laravel, php </br>
+- 🌱 Front Language : React, Javascript, Jquery </br>
 
 <p align="center">
 <a href="#" target="_blank">image</a>
