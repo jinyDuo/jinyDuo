@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 💬 induk UNIV 2012 .. </br>
 - 🔭 hompage - 22.12.. , 23.01.. erp 프로젝트 진행중... </br>
 - 🌱 language Back : Laravel, php </br>
-- 🌱 laguage Front : React, Javascript, Jquery </br>
+- 🌱 Language Front : React, Javascript, Jquery </br>
 
 <p align="center">
 <a href="#" target="_blank">image</a>
