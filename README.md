@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align-"center"> 안녕하세요. 주니어 개발자 jiny </h3>
+<h3 align-"center"> 안녕하세요. Junior 개발자 jiny </h3>
 - 💬 induk UNIV 2012 .. </br>
 - 🔭 hompage - 22.12.. , 23.01.. erp 프로젝트 진행중... </br>
 - 🌱 language Back : Laravel, php </br>
