@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 - 🌱 Back Language : Laravel, php </br>
 - 🌱 Front Language : React, Javascript, Jquery </br>
 - 🌱 APP : React-Native </br>
+- 🌱 DB : MySQL, Oracle, mongoDB </br>
 
 <p align="center">
 <a href="#" target="_blank">image</a>
