@@ -21,7 +21,8 @@ Here are some ideas to get you started:
   <ol>Front-End</ol>
   <li>2022.09 ~ 2023.01 : Emart24 admin 리뉴얼 </li>
   <li>2023.01 ~ 2023.04 : ERP 시스템 리뉴얼 </li>
-  <li>2023.10 ~ 2024.01 ~ 진행중 : 샬레코리아 리뉴얼 </li>
+  <li>2023.10 ~ 2024.04 : 샬레코리아 React-Native 마이그레이션 리뉴얼 개발 </li>
+  <li>2024.08 ~ 2025.07 : 샬레코리아 Next.js, React.js, Tailwind.css 마이그레이션 리뉴얼 개발 </li>
   <ol>Back-End</ol>
   <li>2021.11 ~ 2022 ~ 09 : 보닥 4.0 리뉴얼</li>
 </ul>
